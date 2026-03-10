@@ -7,6 +7,7 @@
 ```powershell
 scoop bucket add dotsider https://github.com/willibrandon/scoop-bucket
 scoop install dotsider
+scoop install dotsider-mcp
 ```
 
 ## Updating
