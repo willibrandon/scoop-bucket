@@ -23,6 +23,9 @@
             "arm64": {
                 "url": "https://github.com/willibrandon/dotsider/releases/download/v$version/dotsider-win-arm64.zip"
             }
+        },
+        "hash": {
+            "url": "$url.sha256"
         }
     }
 }
