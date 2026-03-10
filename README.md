@@ -20,3 +20,4 @@ scoop update dotsider
 | Package | Description |
 |---------|-------------|
 | [dotsider](https://github.com/willibrandon/dotsider) | A TUI for analyzing .NET assemblies |
+| [dotsider-mcp](https://github.com/willibrandon/dotsider) | MCP server for AI-assisted .NET assembly analysis |
