@@ -1,16 +1,16 @@
 {
-    "version": "0.6.2",
+    "version": "0.6.3",
     "description": "MCP server for AI-assisted .NET assembly analysis",
     "homepage": "https://github.com/willibrandon/dotsider",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/willibrandon/dotsider/releases/download/v0.6.2/dotsider-mcp-win-x64.zip",
-            "hash": "f3e9d8fc2a5536e3ab3bec4f1d942b3b8f698a03e757a5d21670fa3ef7beef50"
+            "url": "https://github.com/willibrandon/dotsider/releases/download/v0.6.3/dotsider-mcp-win-x64.zip",
+            "hash": "2833f05b9a2bd4ca105b07ea54d1ea2aa0e538586b46237d7cceba6d7bb2b278"
         },
         "arm64": {
-            "url": "https://github.com/willibrandon/dotsider/releases/download/v0.6.2/dotsider-mcp-win-arm64.zip",
-            "hash": "9a9358f1dcb5bdd69605034bb5de89d9596d1d8112d0256eac524b162a21cfa6"
+            "url": "https://github.com/willibrandon/dotsider/releases/download/v0.6.3/dotsider-mcp-win-arm64.zip",
+            "hash": "045df4125b89b7663f093dbdb05cddc703fa6fd87004795d358cf9cb86ec5f40"
         }
     },
     "bin": "dotsider-mcp.exe",
