@@ -1,16 +1,16 @@
 {
-    "version": "0.6.3",
+    "version": "0.7.0",
     "description": "A TUI for analyzing .NET assemblies",
     "homepage": "https://github.com/willibrandon/dotsider",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/willibrandon/dotsider/releases/download/v0.6.3/dotsider-win-x64.zip",
-            "hash": "dbcb8306c0e84fb1872d7af3769db324c276f7f3eccc17976a47526c4b2c0a57"
+            "url": "https://github.com/willibrandon/dotsider/releases/download/v0.7.0/dotsider-win-x64.zip",
+            "hash": "fe9459a038fececb8f3617e7029d1118f28a8d5dc578b2939cdb66e4cba14864"
         },
         "arm64": {
-            "url": "https://github.com/willibrandon/dotsider/releases/download/v0.6.3/dotsider-win-arm64.zip",
-            "hash": "734d049819a04f190bfde9a569365cbcb867fa2167836b0da9a72c43a7786f9c"
+            "url": "https://github.com/willibrandon/dotsider/releases/download/v0.7.0/dotsider-win-arm64.zip",
+            "hash": "71ec1a8210c1413e0904ac199ae766d2303baaa0d6b6752a81d7f284fed0b80d"
         }
     },
     "bin": "dotsider.exe",
