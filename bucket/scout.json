@@ -1,0 +1,31 @@
+{
+    "version": "0.1.0",
+    "description": "Feature-complete port of ripgrep to .NET Native AOT",
+    "homepage": "https://github.com/willibrandon/scout",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/willibrandon/scout/releases/download/v0.1.0/scout-win-x64.zip",
+            "hash": "skip"
+        },
+        "arm64": {
+            "url": "https://github.com/willibrandon/scout/releases/download/v0.1.0/scout-win-arm64.zip",
+            "hash": "skip"
+        }
+    },
+    "bin": "scout.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/willibrandon/scout/releases/download/v$version/scout-win-x64.zip"
+            },
+            "arm64": {
+                "url": "https://github.com/willibrandon/scout/releases/download/v$version/scout-win-arm64.zip"
+            }
+        },
+        "hash": {
+            "url": "$url.sha256"
+        }
+    }
+}
