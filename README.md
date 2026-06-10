@@ -5,7 +5,7 @@
 ## Usage
 
 ```powershell
-scoop bucket add dotsider https://github.com/willibrandon/scoop-bucket
+scoop bucket add willibrandon https://github.com/willibrandon/scoop-bucket
 scoop install scout
 scoop install pgtail
 scoop install dotsider
