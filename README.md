@@ -7,6 +7,7 @@
 ```powershell
 scoop bucket add dotsider https://github.com/willibrandon/scoop-bucket
 scoop install scout
+scoop install pgtail
 scoop install dotsider
 scoop install dotsider-mcp
 ```
@@ -15,7 +16,9 @@ scoop install dotsider-mcp
 
 ```powershell
 scoop update scout
+scoop update pgtail
 scoop update dotsider
+scoop update dotsider-mcp
 ```
 
 ## Available Packages
@@ -23,5 +26,6 @@ scoop update dotsider
 | Package | Description |
 |---------|-------------|
 | [scout](https://github.com/willibrandon/scout) | Feature-complete port of ripgrep to .NET Native AOT |
+| [pgtail](https://github.com/willibrandon/pgtail) | PostgreSQL log tailer with auto-detection and color output |
 | [dotsider](https://github.com/willibrandon/dotsider) | A TUI for analyzing .NET assemblies |
 | [dotsider-mcp](https://github.com/willibrandon/dotsider) | MCP server for AI-assisted .NET assembly analysis |
