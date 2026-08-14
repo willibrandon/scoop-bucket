@@ -1,16 +1,16 @@
 {
-  "version": "0.2.11",
+  "version": "0.2.12",
   "description": "Native AOT secrets scanner with Gitleaks-compatible and Picket-native modes.",
   "homepage": "https://github.com/willibrandon/picket",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/willibrandon/picket/releases/download/v0.2.11/picket-v0.2.11-win-x64.zip",
-      "hash": "3d8abff138e150b056c5f690ed1d966b98351f390a4893b947beb569934910b5"
+      "url": "https://github.com/willibrandon/picket/releases/download/v0.2.12/picket-v0.2.12-win-x64.zip",
+      "hash": "64cd70c7cfecf60f74f3f8f0a29706750809553d4e2148d331e0cba192e78b10"
     },
     "arm64": {
-      "url": "https://github.com/willibrandon/picket/releases/download/v0.2.11/picket-v0.2.11-win-arm64.zip",
-      "hash": "badcb725c3890ded6e36b477e3f1cc8123ec22d6662c3244501db784ad829c11"
+      "url": "https://github.com/willibrandon/picket/releases/download/v0.2.12/picket-v0.2.12-win-arm64.zip",
+      "hash": "19173ee134694c5b9d36b8c32c399fbe43910698dd03e36d3efee1eb20de9d39"
     }
   },
   "bin": [
