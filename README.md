@@ -11,6 +11,7 @@ scoop install scout
 scoop install pgtail
 scoop install dotsider
 scoop install dotsider-mcp
+scoop install postern
 ```
 
 ## Updating
@@ -21,6 +22,7 @@ scoop update scout
 scoop update pgtail
 scoop update dotsider
 scoop update dotsider-mcp
+scoop update postern
 ```
 
 ## Available Packages
@@ -32,3 +34,4 @@ scoop update dotsider-mcp
 | [pgtail](https://github.com/willibrandon/pgtail) | PostgreSQL log tailer with auto-detection and color output |
 | [dotsider](https://github.com/willibrandon/dotsider) | A TUI for analyzing .NET assemblies |
 | [dotsider-mcp](https://github.com/willibrandon/dotsider) | MCP server for AI-assisted .NET assembly analysis |
+| [postern](https://github.com/willibrandon/postern) | Language server and checker for PostgreSQL configuration files |
