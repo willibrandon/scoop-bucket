@@ -1,5 +1,5 @@
 {
-    "version": "0.11.0",
+    "version": "0.12.0",
     "description": "Terminal lofi radio with background playback and an interactive REPL",
     "homepage": "https://github.com/willibrandon/chill",
     "license": "MIT",
@@ -11,14 +11,14 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/willibrandon/chill/releases/download/v0.11.0/chill_0.11.0_windows_amd64.zip",
-            "hash": "c060bb01b36870921045311a22a4772598b02d5c080faac62c4106b25fa6985b",
-            "extract_dir": "chill_0.11.0_windows_amd64"
+            "url": "https://github.com/willibrandon/chill/releases/download/v0.12.0/chill_0.12.0_windows_amd64.zip",
+            "hash": "8c93340024ac9e5ff2f1744d8e317e9103506dfb0e81c1bc6025600ad25dffb0",
+            "extract_dir": "chill_0.12.0_windows_amd64"
         },
         "arm64": {
-            "url": "https://github.com/willibrandon/chill/releases/download/v0.11.0/chill_0.11.0_windows_arm64.zip",
-            "hash": "9798ec9fcd8f4a3d27c1d75641a46c4f9876f6485e448efbac5d0ba9776593b3",
-            "extract_dir": "chill_0.11.0_windows_arm64"
+            "url": "https://github.com/willibrandon/chill/releases/download/v0.12.0/chill_0.12.0_windows_arm64.zip",
+            "hash": "d4b5e09a1ede73489e3d0bbf1d0f285277a80d41361af47b04b0bfe5ad0751e5",
+            "extract_dir": "chill_0.12.0_windows_arm64"
         }
     },
     "bin": "chill.exe",
