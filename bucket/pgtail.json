@@ -1,17 +1,17 @@
 {
-    "version": "0.7.2",
+    "version": "0.7.3",
     "description": "PostgreSQL log tailer with auto-detection and color output",
     "homepage": "https://github.com/willibrandon/pgtail",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/willibrandon/pgtail/releases/download/v0.7.2/pgtail-windows-x86_64.zip",
-            "hash": "27ea517b2aad8f0b500a296ca44641ec078f503ce257ad752beee635cf08c243",
+            "url": "https://github.com/willibrandon/pgtail/releases/download/v0.7.3/pgtail-windows-x86_64.zip",
+            "hash": "0badc2cc1f3678cd4b87602edc3beb6e421efecb4c4ca174e828ff35b032c959",
             "extract_dir": "pgtail-windows-x86_64"
         },
         "arm64": {
-            "url": "https://github.com/willibrandon/pgtail/releases/download/v0.7.2/pgtail-windows-arm64.zip",
-            "hash": "71cfb5231e0a362cd19dde34502226e42dcd89aa888592e54e7270f7d9bc4540",
+            "url": "https://github.com/willibrandon/pgtail/releases/download/v0.7.3/pgtail-windows-arm64.zip",
+            "hash": "616bb381abda0bb83f1ce4604e20406d9ba879a8dbb19cf421e0b0d588849427",
             "extract_dir": "pgtail-windows-arm64"
         }
     },
