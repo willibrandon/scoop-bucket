@@ -1,17 +1,17 @@
 {
-    "version": "0.3.1",
+    "version": "0.3.2",
     "description": "Language server and checker for PostgreSQL configuration files",
     "homepage": "https://github.com/willibrandon/postern",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/willibrandon/postern/releases/download/v0.3.1/postern-0.3.1-win32-x64.exe",
-            "hash": "7eab00a47bfbfe4dce0b3c1ad8246443bf12d2cacd7e6f4bd87503731c36c7a5"
+            "url": "https://github.com/willibrandon/postern/releases/download/v0.3.2/postern-0.3.2-win32-x64.exe",
+            "hash": "1833dbc21e693e60791bcad4e1bc6cb320b7dbe69ec1a87eef61ba42aaec60fb"
         }
     },
     "bin": [
         [
-            "postern-0.3.1-win32-x64.exe",
+            "postern-0.3.2-win32-x64.exe",
             "postern"
         ]
     ],
